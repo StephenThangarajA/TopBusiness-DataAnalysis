@@ -2,6 +2,10 @@
 
 This project focuses on cleaning, analyzing, and visualizing global company data from a business dataset. The analysis is performed using Python, SQL, and Power BI to derive insights into sales, market value, country-wise distribution, and industry trends.
 
+## 📊 Dashboard Preview
+
+![Power BI Dashboard](https://raw.githubusercontent.com/StephenThangarajA/TopBusiness-DataAnalysis/refs/heads/main/assets/dashboard.png)
+
 ## 📊 Project Highlights
 
 - **Data Cleaning & Transformation**: Used `pandas` and `numpy` to clean and standardize the dataset.
